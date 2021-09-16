@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/xsbg.iml" filepath="$PROJECT_DIR$/.idea/xsbg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xsbg-generator/xsbg-generator.iml" filepath="$PROJECT_DIR$/xsbg-generator/xsbg-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xsbg-mail/xsbg-mail.iml" filepath="$PROJECT_DIR$/xsbg-mail/xsbg-mail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xsbg-server/xsbg-server.iml" filepath="$PROJECT_DIR$/xsbg-server/xsbg-server.iml" />
+    </modules>
+  </component>
+</project>
